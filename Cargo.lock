@@ -115,7 +115,7 @@ dependencies = [
 
 [[package]]
 name = "anydoc-python"
-version = "0.2.4"
+version = "0.2.4+calc.security1"
 dependencies = [
  "anydoc",
  "pyo3",
